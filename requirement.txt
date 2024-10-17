@@ -1,0 +1,6 @@
+
+# The libraries we used in our script
+
+numpy==1.25.0  # Used for generating and manipulating the data stream (sinusoidal pattern) and handling numerical operations efficiently.
+matplotlib==3.7.2  # Used for visualizing the data stream and anomaly scores on two charts in one frame.
+rrcf==0.4.3  # Used for anomaly detection using the Robust Random Cut Forest (RRCF) algorithm, which is ideal for streaming data.
